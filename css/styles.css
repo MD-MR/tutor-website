@@ -771,11 +771,6 @@ img {
   }
 }
 
-/* Special Cases */
-.blury {
-  filter: blur(10px) contrast(40%);
-}
-
 .top-arrow {
   max-width: 100%;
   height: 50px;
